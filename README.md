@@ -20,3 +20,15 @@ The goal is to analyze customers, orders, products, sales performance, and emplo
 - `notebooks/`: Python notebooks for visualizations
 - `data/`: exported data if needed
 - `visuals/`: charts and figures
+
+## Database Exploration
+
+Before performing business analysis, the structure of the ClassicModels database was explored.
+
+Steps:
+- Identified all tables in the database
+- Analyzed columns and data types
+- Identified primary keys
+- Identified relationships between tables
+- Explored sample records
+- Built an EER diagram using MySQL Workbench
